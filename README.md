@@ -5,6 +5,6 @@
 - [x] Yksikkötestaus ja riippuvuudet: Mockito, osa 3
 - [x] IntJoukon testaus ja siistiminen
 - [x] Tenniksen pisteenlaskun refaktorointi
-- [ ] git: vahingossa tuhotun tiedoston palautus
-- [ ] git: commitin muutosten kumoaminen, branchin "siirtäminen"
-- [ ] git: branchin "siirtäminen"
+- [x] git: vahingossa tuhotun tiedoston palautus
+- [x] git: commitin muutosten kumoaminen, branchin "siirtäminen"
+- [x] git: branchin "siirtäminen"
